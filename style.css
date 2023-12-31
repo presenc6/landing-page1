@@ -68,3 +68,34 @@ section img {
     height: auto;
     border-radius: 0.4rem;
 }
+
+.article-one {
+    color: #1F2937;
+}
+
+.article-one h2 {
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding: 3rem;
+}
+
+.article-one-point-two {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding-bottom: 4rem;
+}
+
+.article-one-point-two img {
+    border: 2px solid #3882F6;
+    border-radius: 0.4rem;
+    height: 150px;
+    width: 150px;
+}
+
+.article-one-point-two p {
+    text-align: center;
+    height: 150px;
+    width: 150px;
+}
