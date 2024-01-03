@@ -99,3 +99,18 @@ section img {
     height: 150px;
     width: 150px;
 }
+
+.article-two {
+    font-weight: lighter;
+    padding: 6rem 30rem;
+    background-color: #E5E7EB;
+    text-align: center;
+    color: #1F2937;
+    font-size: 24px;
+    line-height: 2rem;
+}
+
+.article-two cite {
+    font-weight: bold;
+    line-height: 3rem;
+}
