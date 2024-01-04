@@ -5,7 +5,7 @@
 
 html {
   height: 100%;
-  color: white;
+  color: #FAE7C9;
 }
 
 nav {
@@ -13,7 +13,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: #1f2937;
+  background-color: #706233;
 }
 
 nav h2 {
@@ -31,7 +31,7 @@ li {
 }
 
 section {
-  background-color: #1f2937;
+  background-color: #706233;
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -49,7 +49,7 @@ section {
 
 .section-one p {
   font-size: 18px;
-  color: #e5e7eb;
+  color: #FAE7C9;
 }
 
 .section-one button {
@@ -71,6 +71,7 @@ section img {
 
 .article-one {
   color: #1f2937;
+  background-color: #FAE7C9;
 }
 
 .article-one h2 {
@@ -103,7 +104,7 @@ section img {
 .article-two {
   font-weight: lighter;
   padding: 6rem 30rem;
-  background-color: #e5e7eb;
+  background-color: #E1C78F;
   text-align: center;
   color: #1f2937;
   font-size: 24px;
@@ -114,9 +115,9 @@ section img {
   font-weight: bold;
   line-height: 3rem;
 }
-
 .cta-section {
-  margin: 6rem 25rem;
+  padding: 6rem 25rem;
+  background-color: #FAE7C9;
 }
 
 .cta {
@@ -142,7 +143,7 @@ section img {
 }
 
 footer {
-  background-color: #1f2937;
+  background-color: #706233;
   padding: 2.4rem;
   text-align: center;
 }
